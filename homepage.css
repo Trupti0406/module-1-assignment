@@ -1,0 +1,15 @@
+table,
+tr,
+td {
+  border: none;
+  padding: 15px;
+}
+
+.city-image {
+  height: 180px;
+  width: 220px;
+}
+
+a {
+  margin-right: 10px;
+}
